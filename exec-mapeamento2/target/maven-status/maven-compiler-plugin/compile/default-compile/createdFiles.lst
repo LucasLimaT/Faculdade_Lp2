@@ -1,0 +1,13 @@
+lpii\trabalhofinal\util\EntityManagerUtil.class
+lpii\trabalhofinal\vo\PessoaJuridica.class
+lpii\trabalhofinal\vo\ItemVenda.class
+lpii\trabalhofinal\tests\GrupoProdutoTest.class
+lpii\trabalhofinal\vo\Produto.class
+lpii\trabalhofinal\App.class
+lpii\trabalhofinal\vo\Pessoa.class
+lpii\trabalhofinal\vo\GrupoProduto.class
+lpii\trabalhofinal\vo\PessoaFisica.class
+lpii\trabalhofinal\vo\Cliente.class
+lpii\trabalhofinal\vo\Vendedor.class
+lpii\trabalhofinal\vo\Fornecedor.class
+lpii\trabalhofinal\vo\Venda.class
